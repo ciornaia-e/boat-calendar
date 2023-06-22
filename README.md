@@ -1,2 +1,1 @@
-# boat-calendar
-# boat-calendar
+npm run dev
